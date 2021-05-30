@@ -144,7 +144,7 @@ p {
   .two {
     width: 768px;
     height: 20em !important;
-    background-image: url('images/image-header-desktop.jpg');
+    background-image: url('images/image-header-mobile.jpg');
     border-radius: 10px 10px 0 0;
     background-position: center;
   }
