@@ -4,7 +4,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ## Overview 💡
 
-![img]()
+![img](https://github.com/Anywtf/frontendmentor/blob/main/3-column-preview-card-component-main/design/desktop-preview.jpg)
 
 ### The challenge 🏆
 
