@@ -1,6 +1,6 @@
 ## Overview 💡
 
-![img]()
+![img](https://github.com/Anywtf/frontendmentor/blob/main/four-card-feature-section-master/design/desktop-preview.jpg)
 
 ### The challenge 🏆
 
